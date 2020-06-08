@@ -9,6 +9,7 @@
   <dt>1x Protoboard</dt>
   <dt>2x Magnetic Reed Switch</dt>
   <dt>1x 5V buzzer</dt>
+  <dt>1x ON/OFF Button</dt>
   <dt>4x Led</dt>
   <dd><h5>2x Yellow Led</h5></dd>
   <dd><h5>1x Green Led</h5></dd>
